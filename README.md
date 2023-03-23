@@ -1,6 +1,6 @@
 # Mineria_de_datos
-Repositorio recopilacion de los algoritmos desarrollados en la asignatura de mineria de datos
-Desglose de los algoritmos desarrollados por practica:
+Repositorio recopilacion de los algoritmos desarrollados en la asignatura de mineria de datos.
+
 ## desglose de los contenidos
 * Practica 1: Regresion lineal
 * Practica 2: Regresion logistica
